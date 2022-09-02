@@ -57,6 +57,7 @@ Why use encapsulation?
 - Aesthetics
 
 
+
 ## Abstraction
 
 Abstraction is...
